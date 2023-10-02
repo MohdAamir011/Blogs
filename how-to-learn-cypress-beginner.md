@@ -1,5 +1,5 @@
 ---
-name: how-to-learn-cypress-beginner.md
+name: how-to-learn-cypress-beginner
 title: Getting Started with Cypress for End-to-End Testing
 date: 2023-09-25
 author: Your Name
