@@ -2,7 +2,7 @@
 name: how-to-be-a-good-coder
 title: How to Be a Good Coder
 date: September 25, 2023
-author: [Your Name]
+author: Mohd Aamir
 tags: [Coding, Programming, Software Development]
 ---
 

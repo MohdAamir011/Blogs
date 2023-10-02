@@ -1,7 +1,7 @@
 ---
 name: how-to-get-started-with-automation-testing
 title: Getting Started with Automation Testing
-date: September 25, 2023
+date: September 22, 2023
 author: Mohd Aamir
 ---
 
@@ -44,7 +44,6 @@ Install the necessary tools, libraries, and dependencies for your chosen framewo
 
 Create a simple test script to get a feel for the testing framework. For example, if you're using Selenium for web testing, you might write a script to open a web page and verify the page title.
 
-```python
 from selenium import webdriver
 
 # Initialize the web driver (you'll need to install the Selenium library)

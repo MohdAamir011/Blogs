@@ -1,8 +1,8 @@
 ---
 name: how-to-learn-cypress-beginner
 title: Getting Started with Cypress for End-to-End Testing
-date: 2023-09-25
-author: Your Name
+date: April 22, 2023
+author: Mohd Aamir
 tags: [Cypress, Testing, JavaScript]
 ---
 
@@ -22,5 +22,4 @@ Before we dive into Cypress, make sure you have the following prerequisites inst
 
 To get started with Cypress, you need to install it as a dev dependency in your project. Open your terminal and run the following commands:
 
-```bash
 npm install cypress --save-dev
