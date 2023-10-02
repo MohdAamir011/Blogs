@@ -1,7 +1,8 @@
 ---
+name: how-to-get-started-with-automation-testing.md
 title: Getting Started with Automation Testing
 date: September 25, 2023
-author: Your Name
+author: Mohd Aamir
 ---
 
 # Introduction

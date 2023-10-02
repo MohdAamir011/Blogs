@@ -1,4 +1,5 @@
 ---
+name: how-to-be-a-good-coder.md
 title: How to Be a Good Coder
 date: September 25, 2023
 author: [Your Name]
